@@ -16,6 +16,9 @@ mocr
 .. image:: https://codecov.io/gh/verifid/mocr/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/verifid/mocr
 
+.. image:: https://pepy.tech/badge/mocr
+    :target: https://pepy.tech/project/mocr
+
 
 Meaningful Optical Character Recognition from identity cards with Deep Learning.
 
